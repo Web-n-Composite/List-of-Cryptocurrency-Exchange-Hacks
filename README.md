@@ -1,12 +1,6 @@
+# Full list of cryptocurrency exchange hacks 
 
-
----
-
-
-# Full list of cryptocurrency exchange hacks [ 2011 – 2022 ]	
-
-
----
+Covers hacks from 2011 – 2022. 
 
 
 * Tutorial: https://youtu.be/4UmIrnKFg_o
