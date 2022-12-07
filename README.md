@@ -2,22 +2,6 @@
 
 Covers hacks from 2011 – 2022. 
 
-
-* Tutorial: https://youtu.be/4UmIrnKFg_o
-* Tutorial: https://cryptodeeptech.ru/exchange-hacks
-
-
-
----
-
-
-
-<figure class="wp-block-image"><img src="https://cryptodeep.ru/wp-content/uploads/2022/11/hacks-1536x958.jpg" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]" class="wp-image-1489"></figure>
-
-
----
-
-
 <p>In this article, we will compile a complete list of cryptocurrency exchange hacks, starting with the most recent&nbsp;<a href="https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html" target="_blank" rel="noreferrer noopener"><strong>major hack of the Binance exchange</strong></a>&nbsp;, where hackers stole tokens&nbsp;<code>BNB</code>totaling $&nbsp;<em>570 million,</em>&nbsp;and ending with&nbsp;the<a href="https://ru.wikipedia.org/wiki/Mt.Gox" target="_blank" rel="noreferrer noopener"><strong> Mt.&nbsp;Gox,</strong></a>&nbsp;which during the period from&nbsp;<code>2010 по февраль 2014 годов</code>was the world’s largest cryptocurrency exchange&nbsp;<code>Bitcoin</code>and serviced&nbsp;<code>80%</code>transactions.</p>
 
 
