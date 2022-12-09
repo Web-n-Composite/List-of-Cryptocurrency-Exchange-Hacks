@@ -2,22 +2,6 @@
 
 Covers hacks from 2011 – 2022. 
 
-<p>In this article, we will compile a complete list of cryptocurrency exchange hacks, starting with the most recent&nbsp;<a href="https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html" target="_blank" rel="noreferrer noopener"><strong>major hack of the Binance exchange</strong></a>&nbsp;, where hackers stole tokens&nbsp;<code>BNB</code>totaling $&nbsp;<em>570 million,</em>&nbsp;and ending with&nbsp;the<a href="https://ru.wikipedia.org/wiki/Mt.Gox" target="_blank" rel="noreferrer noopener"><strong> Mt.&nbsp;Gox,</strong></a>&nbsp;which during the period from&nbsp;<code>2010 по февраль 2014 годов</code>was the world’s largest cryptocurrency exchange&nbsp;<code>Bitcoin</code>and serviced&nbsp;<code>80%</code>transactions.</p>
-
-
-
-<p>This whole cyclic process of hacks is due to&nbsp;<a href="https://cryptodeep.ru/reduce-private-key/" target="_blank" rel="noreferrer noopener">user data leaks</a>&nbsp;.&nbsp;Cryptocurrency exchange hacks cause particular damage, loss of funds stored in cryptocurrency wallets of exchange users.&nbsp;Although cryptocurrencies are very secure in and of themselves, exchanges can be subject to many vulnerabilities, making them a prime target for hackers.</p>
-
-
-
-<p>One would hope that over time, cryptocurrency exchanges will become more secure.&nbsp;Unfortunately, the reality is that more and more exchanges get hacked every year.&nbsp;As cryptocurrencies and exchanges remain largely unregulated, it is not clear who has jurisdiction over the cryptocurrency markets.&nbsp;</p>
-
-
-
-<p>We have compiled an exhaustive list of cryptocurrency exchange hacks – you will be amazed at how much has been stolen over the years.</p>
-
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity">
 
 
